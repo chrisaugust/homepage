@@ -1,0 +1,13 @@
+.projects {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.project-detail {
+  flex: 1;
+  min-width: 300px;
+  max-width: 400px;
+  border: 1px solid black;
+  padding: 8px;
+  margin: 16px;
+}
