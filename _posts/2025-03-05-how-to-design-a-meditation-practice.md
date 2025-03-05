@@ -17,27 +17,31 @@ On to the specifics...
 
 With four hours to practice, I would do the following: 
 
-30 minutes to establish mindfulness:
+30 to 40 minutes to establish mindfulness:
+- mindfulness and investigation of the body -- body parts, elements, cemetery contemplation
+- mindfulness and investigation of feeling-tones with a body scan  
+- mindfulness and investigation of the mind and mind states -- hindrances, awakening factors
 
-    mindfulness and investigation of the body -- body parts, elements, cemetery contemplation
-    mindfulness and investigation of feeling-tones with a body scan  
-    mindfulness and investigation of mind states -- hindrances, awakening factors
+Bhikkhu Anālayo has a great guided meditation for this which I can highly recommend: [foundations of mindfulness (Satipatthanas)](https://www.youtube.com/watch?v=zpQ1moBuQX8)
 
 2 hours fine material jhanas:
-    1st jhana -- piti and sukkha
-    2nd jhana -- sukkha predominates over piti, upekkha is growing in strength, no more discursive thought
-    3rd jhana -- sukkha and upekkha, piti fading out: "And furthermore, with the fading of rapture, he remains equanimous, mindful, & alert, and senses pleasure with the body. He enters & remains in the third jhana, of which the Noble Ones declare, 'Equanimous & mindful, he has a pleasant abiding.'
-    4th jhana -- upekkha (equanimity): "He sits, permeating the body with a pure, bright awareness, so that there is nothing of his entire body unpervaded by pure, bright awareness."
-    
-1 hour formless jhanas:
-    5th jhana -- boundless space; look for the boundaries of the body, and experience the absence of any such boundary
-    6th jhana --boundless consciousness; turn awareness towards the mind which is aware of boundless space
+- 1st jhana: here's a link to Ayya Khema explaining how to access the [1st jhana](https://www.youtube.com/watch?v=FDWo1w8BLhQ)
+- 2nd jhana: and another link for [jhanas 2 through 4](https://www.youtube.com/watch?v=_px1ma9bihE)
+- 3rd jhana
+- 4th jhana
 
-after each jhana, reflecting: "this too is conditioned, fabricated, un-ownable, bound to cease, ultimately unsatisfying"
+
+1 hour formless jhanass:
+- 5th jhana: boundless space; look for the boundaries of the body, and experience the absence of any such boundary
+- 6th jhana: boundless consciousness; turn awareness towards that which is aware of boundless space
+
+Returning to Bhikku Anālayo for his excellent guided meditation on the [gradual entry to emptiness](https://www.youtube.com/watch?v=rVsVwr2gvzQ) for instructions on how to access the perception of boundless space and boundless consciousness.
+
+After each jhana, reflecting: "this too is conditioned, fabricated, un-ownable, bound to cease, ultimately unsatisfying".
 
 (this is as far/deep as I can go with concentration, but there are [additional jhanas](https://en.wikipedia.org/wiki/Dhyana_in_Buddhism) to cultivate )
 
-30 minutes
-inclining the mind towards the Unconditioned/Deathless, that from which conditioned phenomena arise, and to which they return
+30 minutes:
+Inclining the mind towards the Unconditioned/Deathless, that from which conditioned phenomena arise, and to which they return
 
 
