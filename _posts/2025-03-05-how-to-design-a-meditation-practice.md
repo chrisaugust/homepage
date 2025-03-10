@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "How to design a meditation practice"
+published: false
 ---
 
 A friend of mine recently asked me how I would spend my time if I had, hypothetically, 4 hours a day to devote to meditation.
