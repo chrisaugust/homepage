@@ -23,7 +23,7 @@ export default defineConfig({
 ```javascript
 {
     "name": "my-cool-site",
-    "homepage": "https://<my-github-username>.github.io/<my-cool-site>"
+    "homepage": "https://<my-github-username>.github.io/<my-cool-site>/"
     ...
     
 ```
