@@ -2,8 +2,8 @@
 layout: post
 title: "Deploying a Vite/React App to GitHub Pages"
 ---
-This site, a Jekyll blog, is on GitHub pages, and the deployment process
-was straightforward. So it was a bit surprising when I ran into roadblocks attempting to deploy my friend's Vite/React site to the web using GitHub Pages. In order to keep a record of what worked, and share it with anyone who stumbles across this blog post, I've decided to document the process that finally worked.
+This site is hosted on GitHub pages, and the deployment process
+was straightforward. So it was a bit surprising when I ran into roadblocks attempting to deploy my friend's Vite/React site to the web using GitHub Pages. In order to share with my future self, and anyone who stumbles across this blog post, I've decided to document the process that finally worked.
 
 # 1. Modify the `base` property in `vite.config.js`, as well as the `homepage` property in `package.json`, to reference the desired web address.
 
