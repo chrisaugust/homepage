@@ -8,7 +8,7 @@ permalink: /about/
 
 An app that helps you track and visualize personal expenses. Written in Ruby on Rails. 
 
-It's alive on the web [here.](https://desolate-spire-01632-c699b2dce8c0.herokuapp.com/)
+It was up on Heroku for a while, until I realized I was no longer using it consistently. The GitHub repo for Flow lives [here.](https://github.com/chrisaugust/Flow)
 
 # Smore
 
