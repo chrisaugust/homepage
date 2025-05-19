@@ -12,7 +12,7 @@ It was up on Heroku for a while, until I realized I was no longer using it consi
 
 # Smore
 
-A PERN stack app (Postgres, Express, React, Node) that enables users to track their work sessions, available [here.](https://intense-inlet-27210-0519dd6f66ca.herokuapp.com/)
+A PERN stack app (Postgres, Express, React, Node) that enables users to track their work sessions across projects. Repo is [here.](https://github.com/chrisaugust/smore)
 
 
 # Thousand Days
