@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-# Flow
+# Attention!
 
-An app that helps you track and visualize personal expenses. Inspired by the book Your Money Or Your Life, including the 'monthly review' feature which helps a user reflect on their spending as it relates to personal values. Written in Ruby on Rails with a React frontend.
-[Check it out here.](https://flow2-frontend.vercel.app/dashboard)
-
+In 2026 I'm tackling the undermining effects of modern technologies on one of our most precious commodities, the ability to pay sustained attention. Inspired in part by the folks at Metta Forest Monastery, who have a phone but only use it for an hour a day to make and receive calls, I've decided to use my smartphone similarly. It will otherwise be off or in airplane mode.
